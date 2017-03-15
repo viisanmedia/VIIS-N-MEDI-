@@ -106,6 +106,7 @@
 
 		body:after {
 			content: '';
+			overflow: hidden;
 			display: block;
 			position: fixed;
 			top: 0;
@@ -132,6 +133,7 @@
 /* Type */
 
 	body, input, select, textarea {
+		overflow: hidden;
 		color: #007cff;
 		font-family: 'Roboto', sans-serif;
 		font-size: 14pt;
@@ -711,6 +713,7 @@
     max-width: 100%;
     min-width: 27em;
     padding: 4.5em 3em 3em 3em;
+    overflow: hidden;
     background: #1a1a1a;
     border-radius: 200px;
     cursor: default;
@@ -820,6 +823,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
+		overflow: hidden;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
