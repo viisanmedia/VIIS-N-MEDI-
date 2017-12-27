@@ -744,8 +744,8 @@
 			height: auto;
 			width: 220px;
 			margin: 0 auto;
-			border-radius: 100%;
-			box-shadow: 0 0 12px 6px #ffffff;
+			border-radius: 20px;
+			box-shadow: 0 0 12px 4px #ffffff;
 			}
 
 			#main .avatar:before {
