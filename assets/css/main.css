@@ -177,7 +177,7 @@
 		}
 
 		a:hover {
-			color: #ff7496;
+			color: #0045ff;
 		}
 
 	strong, b {
@@ -312,7 +312,7 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ff7496;
+			border-color: #0045ff;
 		}
 
 	.select-wrapper {
@@ -413,13 +413,13 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			color: #ff7496;
+			color: #0045ff;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #ff7496;
+			border-color: #0045ff;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -555,7 +555,7 @@
 					}
 
 					ul.icons li a:hover:before {
-						text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+						text-shadow: 1.25px 0px 0px #0045ff, -1.25px 0px 0px #0045ff, 0px 1.25px 0px #0045ff, 0px -1.25px 0px #0045ff;
 					}
 
 					ul.icons li a:before {
@@ -644,8 +644,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #ff7496;
-			color: #ff7496 !important;
+			border-color: #0045ff;
+			color: #0045ff !important;
 		}
 
 		input[type="submit"].icon,
